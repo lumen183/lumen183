@@ -12,7 +12,9 @@ lololololololololo
 <!--
 **lumen183/lumen183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 🔥 连续提交
+[![lumen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumen183&show_icons=true)]
 
+ [![lumen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumen183&layout=compact)]
 ## 📊 活动图
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=lumen183&theme=github-compact)
 
